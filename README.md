@@ -6,6 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Installation and Quick Start
 
-Please download the project or clone it 
+Please download the project or clone it.
+Before running the collection choose Goals Env enviroment.
 
 
